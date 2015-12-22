@@ -1,10 +1,10 @@
 # textshuffler
 
-Using:
+***Using:***
 ``` java
 String shuffledString = TextShuffler.shuffle(inputString);
 ```
-
+***Edit your gradle file like this:***
 ```
 repositories {
     maven {
