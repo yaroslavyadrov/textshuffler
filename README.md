@@ -1,5 +1,6 @@
 # textshuffler
 
+```
 repositories {
 		maven {
         url 'https://dl.bintray.com/yaroslavyadrov/maven'
@@ -9,3 +10,4 @@ repositories {
 dependencies {
     compile 'com.github.yaroslavyadrov.textshuffler:textshuffler:1.0.0@aar'
 }
+```
