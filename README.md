@@ -2,8 +2,8 @@
 
 ```
 repositories {
-		maven {
-        url 'https://dl.bintray.com/yaroslavyadrov/maven'
+maven {
+       url 'https://dl.bintray.com/yaroslavyadrov/maven'
     }
 }
  
