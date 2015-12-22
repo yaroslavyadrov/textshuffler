@@ -1,5 +1,10 @@
 # textshuffler
 
+Using:
+``` java
+String shuffledString = TextShuffler.shuffle(inputString);
+```
+
 ```
 repositories {
     maven {
