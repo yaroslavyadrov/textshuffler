@@ -1,4 +1,5 @@
 # textshuffler
+That library just shuffles all charcters in your string and gives it back.
 
 ***Edit your gradle file like this:***
 ```
