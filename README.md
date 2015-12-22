@@ -13,6 +13,13 @@ dependencies {
 }
 ```
 
+***Or just:***
+```
+dependencies {
+    compile 'com.github.yaroslavyadrov.textshuffler:textshuffler:1.0.0'
+}
+```
+
 ***Using:***
 ``` java
 String shuffledString = TextShuffler.shuffle(inputString);
